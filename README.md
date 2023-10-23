@@ -1,4 +1,4 @@
-# country_selection_frontend
+# country_selection_backend
 
 This Express js is designed to send information in the form of API response to view details of different countries in the frontend. This express js is connected to another frontend which is also uploaded to my github. The backend uses the open source API - `https://restcountries.com` to retreive details about various countries.  
 
